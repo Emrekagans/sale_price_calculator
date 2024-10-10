@@ -1,0 +1,27 @@
+Rice,6
+Bulgur Wheat,5
+Chickpeas,6
+Dried Beans,+6
+Kidney Bean,7
+Hazelnut,30
+Sunflower seed,15
+Pistachios,60
+Pickled Cucumber,15
+Walnuts,60
+Sugar,8
+Vinegar,5
+Flour,5
+Maya,2
+Spaghetti,4
+Red Lentils,6
+Green Lentils,6
+Popcorn,7
+Powdered Sugar,5
+Starch,8
+Barley Noodle,4
+Tomato Paste,5
+Pepper Paste,4
+Ketchup,6
+Mayonnaise,6
+Pickled Hot Pepper,4
+Olive Oil,75

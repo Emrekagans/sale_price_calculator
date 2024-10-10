@@ -1,0 +1,27 @@
+Product: Rice || Price: 9.780000000000001$
+Product: Bulgur Wheat || Price: 8.15$
+Product: Chickpeas || Price: 9.780000000000001$
+Product: Dried Beans || Price: 9.780000000000001$
+Product: Kidney Bean || Price: 11.41$
+Product: Hazelnut || Price: 48.9$
+Product: Sunflower seed || Price: 24.45$
+Product: Pistachios || Price: 97.8$
+Product: Pickled Cucumber || Price: 24.45$
+Product: Walnuts || Price: 97.8$
+Product: Sugar || Price: 13.04$
+Product: Vinegar || Price: 8.15$
+Product: Flour || Price: 8.15$
+Product: Maya || Price: 3.26$
+Product: Spaghetti || Price: 6.52$
+Product: Red Lentils || Price: 9.780000000000001$
+Product: Green Lentils || Price: 9.780000000000001$
+Product: Popcorn || Price: 11.41$
+Product: Powdered Sugar || Price: 8.15$
+Product: Starch || Price: 13.04$
+Product: Barley Noodle || Price: 6.52$
+Product: Tomato Paste || Price: 8.15$
+Product: Pepper Paste || Price: 6.52$
+Product: Ketchup || Price: 9.780000000000001$
+Product: Mayonnaise || Price: 9.780000000000001$
+Product: Pickled Hot Pepper || Price: 6.52$
+Product: Olive Oil || Price: 11.41$
